@@ -1,7 +1,7 @@
 # Miniprojekt
 
 Contributing to MiniProjekt WishCloud
-Thank you for your interest in contributing to WishCould! We welcome contributions from everyone.
+Thank you for your interest in contributing to WishCloud! We welcome contributions from everyone.
 
 Getting Started
 To get started, please follow these steps:
